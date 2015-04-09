@@ -25,6 +25,6 @@
   elsif i % 3 == 0
     puts "#{i}: Fizz"
   elsif i % 5 == 0
-    puts "Buzz"
+    puts "#{i}: Buzz"
   end
 end
